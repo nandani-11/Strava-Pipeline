@@ -9,8 +9,6 @@ As an avid runner, I have been tracking my runs on Strava for just over 3 years 
 ## Using Apache Airflow to create the pipeline
 I used Apache Airflow to create a data pipeline to extract my acitivities from strava daily, and store them on a local database. 
 
-Please refer to the following python script where I implemented the Airflow pipeline:
- https://github.com/ruhimahendra24/Strava_pipeline/blob/master/AIRFLOW/dags/strava_pipeline.py
 
  I followed this Youtube tutorial to help develop this pipeline: 
  https://www.youtube.com/watch?v=s-r2gEr7YW4&t=2s&ab_channel=Dataquest
